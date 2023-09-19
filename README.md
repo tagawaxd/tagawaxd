@@ -1,6 +1,6 @@
 ## Victor Tagawa 🎌
-- 🚀 Atuando como Analista de Sistemas Jr, utilizando as tecnologias Java e Oracle SQL para aplicações Web.
-- 📚 Cursando Sistemas de Informação na Faculdade Descomplica
+- 🚀 Atuando como Analista de Sistemas Pleno, utilizando as tecnologias Java, Spring e AWS.
+- 📚 Cursando Ciência da Computação na Faculdade  Uniamérica
 <hr>
 
 - ### Contato:
